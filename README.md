@@ -32,5 +32,4 @@
 
 ## رابط الموقع
 
-(Live demo)[https://arabic-todo-list-with-react.netlify.app/
-]
+[Live demo](https://arabic-todo-list-with-react.netlify.app/)
